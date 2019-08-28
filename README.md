@@ -8,6 +8,7 @@ _A list of my commonly used Git commands_
 | Command | Description |
 | ------- | ----------- |
 | `git init` | Initialize a local Git repository |
+| `rd .git /S/Q` | remove the .git folder |
 | `git clone ssh://git@github.com/[username]/[repository-name].git` | Create a local copy of a remote repository |
 
 ### Basic Snapshotting
